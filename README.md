@@ -1,31 +1,20 @@
-<!--
 [![template](https://img.shields.io/badge/Repository-template-darkred)](https://github.com/Nakama3942/template_rep)
-[![GitHub license](https://img.shields.io/github/license/Nakama3942/template_rep?color=darkorange&style=flat-square)](https://github.com/Nakama3942/template_rep/blob/main/LICENSE)
--->
+[![GitHub license](https://img.shields.io/github/license/Nakama3942/FormWordGUI?color=darkorange&style=flat-square)](https://github.com/Nakama3942/FormWordGUI/blob/main/LICENSE)
+
+[![CHANGELOG](https://img.shields.io/badge/here-CHANGELOG-yellow)](https://github.com/Nakama3942/FormWordGUI/blob/main/CHANGELOG.md)
+[![CONTRIBUTING](https://img.shields.io/badge/here-CONTRIBUTING-indigo)](https://github.com/Nakama3942/FormWordGUI/blob/main/CONTRIBUTING.md)
+[![CODE_OF_CONDUCT](https://img.shields.io/badge/here-CODE_OF_CONDUCT-darkgreen)](https://github.com/Nakama3942/FormWordGUI/blob/main/CODE_OF_CONDUCT.md)
+[![PULL_REQUEST_TEMPLATE](https://img.shields.io/badge/here-PULL_REQUEST_TEMPLATE-orange)](https://github.com/Nakama3942/FormWordGUI/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 # FormWordGUI
 ## Overview
-Программа для рандомной генерации новых ников из заданых.
+A program for randomly generating new nicknames from the given ones.
 
 ## Usage
-Запускаете программу и в верхнем поле вводите необходимый ник, слово, что угодно, нажимаете "преобразовать" и получаете в нижнем поле новое сгенерированное слово. Его можно выделить и скопировать.
+Run the program and in the upper field enter the required nickname, word, whatever, click "convert" and get a new generated word in the lower field. It can be selected and copied.
 
 ## Building
-Программа написана в Qt, поэтому необходимо открывать проект через Qt и собирать программу через это IDE. После сборки размещаете неоюходимые библиотеки в той же директории, что и исполняемый файл. Программа собрана, можно использовать.
-
-<!--
-## CHANGELOG
-- [CHANGELOG](https://github.com/Nakama3942/template_rep/blob/main/CHANGELOG.md)
-
-## CONTRIBUTING
-- [CONTRIBUTING](https://github.com/Nakama3942/template_rep/blob/main/CONTRIBUTING.md)
-
-## CODE_OF_CONDUCT
-- [CODE_OF_CONDUCT](https://github.com/Nakama3942/template_rep/blob/main/CODE_OF_CONDUCT.md)
-
-## PULL_REQUEST_TEMPLATE
-- [PULL_REQUEST_TEMPLATE](https://github.com/Nakama3942/template_rep/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
--->
+The program is written in Qt, so you need to open the project through Qt and build the program through this IDE. After building, place the required libraries in the same directory as the executable file. The program is assembled, you can use it.
 
 ## Authors
 <table>
